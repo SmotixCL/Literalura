@@ -1,10 +1,6 @@
 # Literalura
 
-LiterAlura es una aplicación que te permite explorar y gestionar una colección de libros y autores, obteniendo información de la API de Gutendex.
-
-<img src="https://github.com/Fernandofcsp/literalura/assets/73980852/4e38d9f1-ec55-41c3-a6aa-3f42883638ce" alt="Animación" style="width:80%;">
-
-<a href="https://drive.google.com/file/d/1Pb5Kb_gnG_cimbJn4HzBb-o5rn9lX0bj/view?usp=sharing">Video</a>
+LiterAlura es una aplicación que te permite explorar y gestionar una colección de libros y autores, obteniendo información de la API de Gutendex
 
 
 ## Comenzando 🚀
@@ -25,7 +21,7 @@ Para probar el proyecto clona el repositorio y abre el proyecto en tu IDE favori
 ### Instalación 🔧
 
 
-1. Clona el repositorio: `git clone https://github.com/SmotixCL/literalura.git`
+1. Clona el repositorio: `git clone https://github.com/SmotixCL/Literalura.git`
 2. Arranca el proyecto: `mvn spring-boot:run`
 
 
